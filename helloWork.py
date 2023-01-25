@@ -1,1 +1,2 @@
-print("Hello Work!")
+for i in range(10):
+    print("Hello Work!")
